@@ -7,7 +7,7 @@
 # documentation.
 
 name: Java CI with Maven
-
+run-name: ${{github.actor}} is learning GitHub Action
 on:
   push:
     branches: [ "main" ]
